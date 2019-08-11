@@ -4,7 +4,7 @@
 
 ### Accelerate Chapter schedule
 
-These chapters are shorter than elegant puzzle, and therefore I'd like to start by trying to cover a couple a week.  This timeline is a suggestion only, and the goal is to provide a collaborative environment where we can read and digest together.
+These chapters are shorter than elegant puzzle, so I'd like to start by trying to cover a couple a week.  This timeline is a suggestion only - the goal is to provide a collaborative environment where we can read and digest together.
 
 | Date | Chapters |
 | ---- | --------| 
