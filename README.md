@@ -1,4 +1,4 @@
-# obc-read 
+obc-read 
 
 ### [Code of Conduct](https://github.com/jsimmonsc/obc-read/blob/master/CODE_OF_CONDCUT.md)
 
@@ -15,4 +15,4 @@ These chapters are shorter than elegant puzzle, and therefore I'd like to start 
 | 2019-09-15 | Chapters 10 - 11 |
 | 2019-09-22 | Chapters 12 - 13 |
 | 2019-09-29 | Chapters 14 - 15 |
-| 2019-10-06 | Chapters 16 / Conclusion |
+| 2019-10-06 | Chapter 16 / Conclusion |
