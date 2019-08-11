@@ -1,7 +1,6 @@
 # obc-read 
-=========
 
-## [Code of Conduct][https://github.com/jsimmonsc/obc-read/blob/master/CODE_OF_CONDUCT.md]
+## [Code of Conduct](https://github.com/jsimmonsc/obc-read/blob/master/CODE_OF_CONDUCT.md)
 
 ### Accelerate Chapter schedule
 

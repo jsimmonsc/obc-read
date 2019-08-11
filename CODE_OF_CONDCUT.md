@@ -28,4 +28,4 @@ Be mindful of the privacy of others who may not be aware you are sharing their s
 
 ## Attribution
 
-Shamelessly stolen from [Elegant Puzzles Code of Conduct][https://github.com/charity/elegant-puzzle-discuss/blob/master/CODE_OF_CONDUCT.md].
+Shamelessly stolen from [Elegant Puzzles Code of Conduct](https://github.com/charity/elegant-puzzle-discuss/blob/master/CODE_OF_CONDUCT.md).
